@@ -4,7 +4,7 @@ import ForecastSummaries from './ForecastSummaries';
 
 
 function App (props) {
-  const { forecasts, location } = props;
+  const { forecasts, location, } = props;
   return (
     
     <div className="App">
